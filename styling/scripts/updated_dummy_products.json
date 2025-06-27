@@ -1,0 +1,402 @@
+[
+  {
+    "title": "AfriEssence Floral Dress",
+    "description": "This is a high-quality sunglasses item, perfect for modern needs.",
+    "price": 538.88,
+    "stock_quantity": 46,
+    "category": "sunglasses",
+    "image_url": "https://dummyjson.com/image/product_1.jpg"
+  },
+  {
+    "title": "Lalela Floral Dress",
+    "description": "This is a high-quality lighting item, perfect for modern needs.",
+    "price": 360.14,
+    "stock_quantity": 38,
+    "category": "lighting",
+    "image_url": "https://dummyjson.com/image/product_2.jpg"
+  },
+  {
+    "title": "Zenzi Windbreaker Jacket",
+    "description": "This is a high-quality womens shoes item, perfect for modern needs.",
+    "price": 731.98,
+    "stock_quantity": 74,
+    "category": "womens-shoes",
+    "image_url": "https://dummyjson.com/image/product_3.jpg"
+  },
+  {
+    "title": "Zenzi Floral Dress",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 704.28,
+    "stock_quantity": 48,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_4.jpg"
+  },
+  {
+    "title": "Jozi Active Floral Dress",
+    "description": "This is a high-quality mens watches item, perfect for modern needs.",
+    "price": 763.3,
+    "stock_quantity": 77,
+    "category": "mens-watches",
+    "image_url": "https://dummyjson.com/image/product_5.jpg"
+  },
+  {
+    "title": "Jozi Active Windbreaker Jacket",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 782.4,
+    "stock_quantity": 6,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_6.jpg"
+  },
+  {
+    "title": "Lalela Floral Dress",
+    "description": "This is a high-quality lighting item, perfect for modern needs.",
+    "price": 161.77,
+    "stock_quantity": 66,
+    "category": "lighting",
+    "image_url": "https://dummyjson.com/image/product_7.jpg"
+  },
+  {
+    "title": "Ubuntu Wear Windbreaker Jacket",
+    "description": "This is a high-quality sunglasses item, perfect for modern needs.",
+    "price": 533.91,
+    "stock_quantity": 35,
+    "category": "sunglasses",
+    "image_url": "https://dummyjson.com/image/product_8.jpg"
+  },
+  {
+    "title": "Kaya Living Slim Fit Shirt",
+    "description": "This is a high-quality mens watches item, perfect for modern needs.",
+    "price": 446.7,
+    "stock_quantity": 62,
+    "category": "mens-watches",
+    "image_url": "https://dummyjson.com/image/product_9.jpg"
+  },
+  {
+    "title": "AfriEssence Leather Sandals",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 932.55,
+    "stock_quantity": 35,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_10.jpg"
+  },
+  {
+    "title": "SavannaTech Leather Sandals",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 180.8,
+    "stock_quantity": 46,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_11.jpg"
+  },
+  {
+    "title": "Kaya Living Slim Fit Shirt",
+    "description": "This is a high-quality womens dresses item, perfect for modern needs.",
+    "price": 245.44,
+    "stock_quantity": 70,
+    "category": "womens-dresses",
+    "image_url": "https://dummyjson.com/image/product_12.jpg"
+  },
+  {
+    "title": "AfriEssence Slim Fit Shirt",
+    "description": "This is a high-quality automotive item, perfect for modern needs.",
+    "price": 452.33,
+    "stock_quantity": 67,
+    "category": "automotive",
+    "image_url": "https://dummyjson.com/image/product_13.jpg"
+  },
+  {
+    "title": "Zenzi Floral Dress",
+    "description": "This is a high-quality groceries item, perfect for modern needs.",
+    "price": 371.45,
+    "stock_quantity": 44,
+    "category": "groceries",
+    "image_url": "https://dummyjson.com/image/product_14.jpg"
+  },
+  {
+    "title": "Cape Luxe Desk Lamp",
+    "description": "This is a high-quality home decoration item, perfect for modern needs.",
+    "price": 670.92,
+    "stock_quantity": 78,
+    "category": "home-decoration",
+    "image_url": "https://dummyjson.com/image/product_15.jpg"
+  },
+  {
+    "title": "Ubuntu Wear Slim Fit Shirt",
+    "description": "This is a high-quality tops item, perfect for modern needs.",
+    "price": 256.08,
+    "stock_quantity": 72,
+    "category": "tops",
+    "image_url": "https://dummyjson.com/image/product_16.jpg"
+  },
+  {
+    "title": "Zenzi Jogger Pants",
+    "description": "This is a high-quality womens dresses item, perfect for modern needs.",
+    "price": 208.5,
+    "stock_quantity": 51,
+    "category": "womens-dresses",
+    "image_url": "https://dummyjson.com/image/product_17.jpg"
+  },
+  {
+    "title": "Umoya Bluetooth Speaker",
+    "description": "This is a high-quality laptops item, perfect for modern needs.",
+    "price": 9394.95,
+    "stock_quantity": 62,
+    "category": "laptops",
+    "image_url": "https://dummyjson.com/image/product_18.jpg"
+  },
+  {
+    "title": "Jozi Active Jogger Pants",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 528.99,
+    "stock_quantity": 22,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_19.jpg"
+  },
+  {
+    "title": "Kaya Living Floral Dress",
+    "description": "This is a high-quality womens watches item, perfect for modern needs.",
+    "price": 283.67,
+    "stock_quantity": 94,
+    "category": "womens-watches",
+    "image_url": "https://dummyjson.com/image/product_20.jpg"
+  },
+  {
+    "title": "Ubuntu Wear Floral Dress",
+    "description": "This is a high-quality groceries item, perfect for modern needs.",
+    "price": 889.21,
+    "stock_quantity": 5,
+    "category": "groceries",
+    "image_url": "https://dummyjson.com/image/product_21.jpg"
+  },
+  {
+    "title": "Jozi Active Windbreaker Jacket",
+    "description": "This is a high-quality mens shirts item, perfect for modern needs.",
+    "price": 194.56,
+    "stock_quantity": 6,
+    "category": "mens-shirts",
+    "image_url": "https://dummyjson.com/image/product_22.jpg"
+  },
+  {
+    "title": "Kaya Living Face Cleanser",
+    "description": "This is a high-quality skincare item, perfect for modern needs.",
+    "price": 152.3,
+    "stock_quantity": 34,
+    "category": "skincare",
+    "image_url": "https://dummyjson.com/image/product_23.jpg"
+  },
+  {
+    "title": "SavannaTech Bluetooth Speaker",
+    "description": "This is a high-quality smartphones item, perfect for modern needs.",
+    "price": 8820.61,
+    "stock_quantity": 97,
+    "category": "smartphones",
+    "image_url": "https://dummyjson.com/image/product_24.jpg"
+  },
+  {
+    "title": "AfriEssence Floral Dress",
+    "description": "This is a high-quality motorcycle item, perfect for modern needs.",
+    "price": 915.59,
+    "stock_quantity": 27,
+    "category": "motorcycle",
+    "image_url": "https://dummyjson.com/image/product_25.jpg"
+  },
+  {
+    "title": "AfriEssence Floral Dress",
+    "description": "This is a high-quality womens dresses item, perfect for modern needs.",
+    "price": 965.61,
+    "stock_quantity": 42,
+    "category": "womens-dresses",
+    "image_url": "https://dummyjson.com/image/product_26.jpg"
+  },
+  {
+    "title": "Lalela Floral Dress",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 257.98,
+    "stock_quantity": 39,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_27.jpg"
+  },
+  {
+    "title": "Mzansi Gear Jogger Pants",
+    "description": "This is a high-quality womens dresses item, perfect for modern needs.",
+    "price": 707.53,
+    "stock_quantity": 72,
+    "category": "womens-dresses",
+    "image_url": "https://dummyjson.com/image/product_28.jpg"
+  },
+  {
+    "title": "Lalela Throw Blanket",
+    "description": "This is a high-quality home decoration item, perfect for modern needs.",
+    "price": 480.18,
+    "stock_quantity": 27,
+    "category": "home-decoration",
+    "image_url": "https://dummyjson.com/image/product_29.jpg"
+  },
+  {
+    "title": "Zenzi Floral Dress",
+    "description": "This is a high-quality womens shoes item, perfect for modern needs.",
+    "price": 404.42,
+    "stock_quantity": 28,
+    "category": "womens-shoes",
+    "image_url": "https://dummyjson.com/image/product_30.jpg"
+  },
+  {
+    "title": "Cape Luxe Slim Fit Shirt",
+    "description": "This is a high-quality womens dresses item, perfect for modern needs.",
+    "price": 996.53,
+    "stock_quantity": 70,
+    "category": "womens-dresses",
+    "image_url": "https://dummyjson.com/image/product_31.jpg"
+  },
+  {
+    "title": "Umoya Floral Dress",
+    "description": "This is a high-quality fragrances item, perfect for modern needs.",
+    "price": 660.03,
+    "stock_quantity": 15,
+    "category": "fragrances",
+    "image_url": "https://dummyjson.com/image/product_32.jpg"
+  },
+  {
+    "title": "Jozi Active Windbreaker Jacket",
+    "description": "This is a high-quality mens shoes item, perfect for modern needs.",
+    "price": 539.49,
+    "stock_quantity": 55,
+    "category": "mens-shoes",
+    "image_url": "https://dummyjson.com/image/product_33.jpg"
+  },
+  {
+    "title": "SavannaTech Jogger Pants",
+    "description": "This is a high-quality motorcycle item, perfect for modern needs.",
+    "price": 482.26,
+    "stock_quantity": 51,
+    "category": "motorcycle",
+    "image_url": "https://dummyjson.com/image/product_34.jpg"
+  },
+  {
+    "title": "Cape Luxe Wireless Earbuds",
+    "description": "This is a high-quality laptops item, perfect for modern needs.",
+    "price": 14662.39,
+    "stock_quantity": 49,
+    "category": "laptops",
+    "image_url": "https://dummyjson.com/image/product_35.jpg"
+  },
+  {
+    "title": "Kaya Living Slim Fit Shirt",
+    "description": "This is a high-quality fragrances item, perfect for modern needs.",
+    "price": 593.64,
+    "stock_quantity": 15,
+    "category": "fragrances",
+    "image_url": "https://dummyjson.com/image/product_36.jpg"
+  },
+  {
+    "title": "Cape Luxe Floral Dress",
+    "description": "This is a high-quality automotive item, perfect for modern needs.",
+    "price": 961.15,
+    "stock_quantity": 100,
+    "category": "automotive",
+    "image_url": "https://dummyjson.com/image/product_37.jpg"
+  },
+  {
+    "title": "Mzansi Gear Windbreaker Jacket",
+    "description": "This is a high-quality womens jewellery item, perfect for modern needs.",
+    "price": 859.96,
+    "stock_quantity": 36,
+    "category": "womens-jewellery",
+    "image_url": "https://dummyjson.com/image/product_38.jpg"
+  },
+  {
+    "title": "Cape Luxe Windbreaker Jacket",
+    "description": "This is a high-quality furniture item, perfect for modern needs.",
+    "price": 249.02,
+    "stock_quantity": 23,
+    "category": "furniture",
+    "image_url": "https://dummyjson.com/image/product_39.jpg"
+  },
+  {
+    "title": "Jozi Active Floral Dress",
+    "description": "This is a high-quality womens shoes item, perfect for modern needs.",
+    "price": 703.61,
+    "stock_quantity": 38,
+    "category": "womens-shoes",
+    "image_url": "https://dummyjson.com/image/product_40.jpg"
+  },
+  {
+    "title": "Umoya Smartphone",
+    "description": "This is a high-quality laptops item, perfect for modern needs.",
+    "price": 11331.46,
+    "stock_quantity": 22,
+    "category": "laptops",
+    "image_url": "https://dummyjson.com/image/product_41.jpg"
+  },
+  {
+    "title": "Umoya Slim Fit Shirt",
+    "description": "This is a high-quality mens shirts item, perfect for modern needs.",
+    "price": 186.35,
+    "stock_quantity": 71,
+    "category": "mens-shirts",
+    "image_url": "https://dummyjson.com/image/product_42.jpg"
+  },
+  {
+    "title": "Umoya Floral Dress",
+    "description": "This is a high-quality womens dresses item, perfect for modern needs.",
+    "price": 333.88,
+    "stock_quantity": 16,
+    "category": "womens-dresses",
+    "image_url": "https://dummyjson.com/image/product_43.jpg"
+  },
+  {
+    "title": "Kaya Living Slim Fit Shirt",
+    "description": "This is a high-quality mens shirts item, perfect for modern needs.",
+    "price": 266.54,
+    "stock_quantity": 38,
+    "category": "mens-shirts",
+    "image_url": "https://dummyjson.com/image/product_44.jpg"
+  },
+  {
+    "title": "Lalela Leather Sandals",
+    "description": "This is a high-quality womens shoes item, perfect for modern needs.",
+    "price": 726.44,
+    "stock_quantity": 55,
+    "category": "womens-shoes",
+    "image_url": "https://dummyjson.com/image/product_45.jpg"
+  },
+  {
+    "title": "Ubuntu Wear Laptop",
+    "description": "This is a high-quality smartphones item, perfect for modern needs.",
+    "price": 13778.67,
+    "stock_quantity": 73,
+    "category": "smartphones",
+    "image_url": "https://dummyjson.com/image/product_46.jpg"
+  },
+  {
+    "title": "Jozi Active Jogger Pants",
+    "description": "This is a high-quality mens shirts item, perfect for modern needs.",
+    "price": 373.05,
+    "stock_quantity": 88,
+    "category": "mens-shirts",
+    "image_url": "https://dummyjson.com/image/product_47.jpg"
+  },
+  {
+    "title": "Kaya Living Throw Blanket",
+    "description": "This is a high-quality home decoration item, perfect for modern needs.",
+    "price": 161.38,
+    "stock_quantity": 66,
+    "category": "home-decoration",
+    "image_url": "https://dummyjson.com/image/product_48.jpg"
+  },
+  {
+    "title": "Umoya Slim Fit Shirt",
+    "description": "This is a high-quality mens shirts item, perfect for modern needs.",
+    "price": 165.9,
+    "stock_quantity": 11,
+    "category": "mens-shirts",
+    "image_url": "https://dummyjson.com/image/product_49.jpg"
+  },
+  {
+    "title": "Kaya Living Essential Oil Diffuser",
+    "description": "This is a high-quality home decoration item, perfect for modern needs.",
+    "price": 218.84,
+    "stock_quantity": 68,
+    "category": "home-decoration",
+    "image_url": "https://dummyjson.com/image/product_50.jpg"
+  }
+]

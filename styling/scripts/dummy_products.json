@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Product 1",
+    "description": "This is a sample description for Product 1. High quality and reliable.",
+    "price": 11.75,
+    "stock_quantity": 99,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+  },
+  {
+    "title": "Product 2",
+    "description": "This is a sample description for Product 2. High quality and reliable.",
+    "price": 13.5,
+    "stock_quantity": 98,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+  },
+  {
+    "title": "Product 3",
+    "description": "This is a sample description for Product 3. High quality and reliable.",
+    "price": 15.25,
+    "stock_quantity": 97,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/3/thumbnail.jpg"
+  },
+  {
+    "title": "Product 4",
+    "description": "This is a sample description for Product 4. High quality and reliable.",
+    "price": 17.0,
+    "stock_quantity": 96,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+  },
+  {
+    "title": "Product 5",
+    "description": "This is a sample description for Product 5. High quality and reliable.",
+    "price": 18.75,
+    "stock_quantity": 95,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/5/thumbnail.jpg"
+  },
+  {
+    "title": "Product 6",
+    "description": "This is a sample description for Product 6. High quality and reliable.",
+    "price": 20.5,
+    "stock_quantity": 94,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/6/thumbnail.jpg"
+  },
+  {
+    "title": "Product 7",
+    "description": "This is a sample description for Product 7. High quality and reliable.",
+    "price": 22.25,
+    "stock_quantity": 93,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+  },
+  {
+    "title": "Product 8",
+    "description": "This is a sample description for Product 8. High quality and reliable.",
+    "price": 24.0,
+    "stock_quantity": 92,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/8/thumbnail.jpg"
+  },
+  {
+    "title": "Product 9",
+    "description": "This is a sample description for Product 9. High quality and reliable.",
+    "price": 25.75,
+    "stock_quantity": 91,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+  },
+  {
+    "title": "Product 10",
+    "description": "This is a sample description for Product 10. High quality and reliable.",
+    "price": 27.5,
+    "stock_quantity": 90,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/10/thumbnail.jpg"
+  },
+  {
+    "title": "Product 11",
+    "description": "This is a sample description for Product 11. High quality and reliable.",
+    "price": 29.25,
+    "stock_quantity": 89,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/11/thumbnail.jpg"
+  },
+  {
+    "title": "Product 12",
+    "description": "This is a sample description for Product 12. High quality and reliable.",
+    "price": 31.0,
+    "stock_quantity": 88,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
+  },
+  {
+    "title": "Product 13",
+    "description": "This is a sample description for Product 13. High quality and reliable.",
+    "price": 32.75,
+    "stock_quantity": 87,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/13/thumbnail.jpg"
+  },
+  {
+    "title": "Product 14",
+    "description": "This is a sample description for Product 14. High quality and reliable.",
+    "price": 34.5,
+    "stock_quantity": 86,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/14/thumbnail.jpg"
+  },
+  {
+    "title": "Product 15",
+    "description": "This is a sample description for Product 15. High quality and reliable.",
+    "price": 36.25,
+    "stock_quantity": 85,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/15/thumbnail.jpg"
+  },
+  {
+    "title": "Product 16",
+    "description": "This is a sample description for Product 16. High quality and reliable.",
+    "price": 38.0,
+    "stock_quantity": 84,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
+  },
+  {
+    "title": "Product 17",
+    "description": "This is a sample description for Product 17. High quality and reliable.",
+    "price": 39.75,
+    "stock_quantity": 83,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/17/thumbnail.jpg"
+  },
+  {
+    "title": "Product 18",
+    "description": "This is a sample description for Product 18. High quality and reliable.",
+    "price": 41.5,
+    "stock_quantity": 82,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/18/thumbnail.jpg"
+  },
+  {
+    "title": "Product 19",
+    "description": "This is a sample description for Product 19. High quality and reliable.",
+    "price": 43.25,
+    "stock_quantity": 81,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/19/thumbnail.jpg"
+  },
+  {
+    "title": "Product 20",
+    "description": "This is a sample description for Product 20. High quality and reliable.",
+    "price": 45.0,
+    "stock_quantity": 80,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/20/thumbnail.jpg"
+  },
+  {
+    "title": "Product 21",
+    "description": "This is a sample description for Product 21. High quality and reliable.",
+    "price": 46.75,
+    "stock_quantity": 79,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/21/thumbnail.jpg"
+  },
+  {
+    "title": "Product 22",
+    "description": "This is a sample description for Product 22. High quality and reliable.",
+    "price": 48.5,
+    "stock_quantity": 78,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/22/thumbnail.jpg"
+  },
+  {
+    "title": "Product 23",
+    "description": "This is a sample description for Product 23. High quality and reliable.",
+    "price": 50.25,
+    "stock_quantity": 77,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/23/thumbnail.jpg"
+  },
+  {
+    "title": "Product 24",
+    "description": "This is a sample description for Product 24. High quality and reliable.",
+    "price": 52.0,
+    "stock_quantity": 76,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/24/thumbnail.jpg"
+  },
+  {
+    "title": "Product 25",
+    "description": "This is a sample description for Product 25. High quality and reliable.",
+    "price": 53.75,
+    "stock_quantity": 75,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/25/thumbnail.jpg"
+  },
+  {
+    "title": "Product 26",
+    "description": "This is a sample description for Product 26. High quality and reliable.",
+    "price": 55.5,
+    "stock_quantity": 74,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/26/thumbnail.jpg"
+  },
+  {
+    "title": "Product 27",
+    "description": "This is a sample description for Product 27. High quality and reliable.",
+    "price": 57.25,
+    "stock_quantity": 73,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/27/thumbnail.jpg"
+  },
+  {
+    "title": "Product 28",
+    "description": "This is a sample description for Product 28. High quality and reliable.",
+    "price": 59.0,
+    "stock_quantity": 72,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/28/thumbnail.jpg"
+  },
+  {
+    "title": "Product 29",
+    "description": "This is a sample description for Product 29. High quality and reliable.",
+    "price": 60.75,
+    "stock_quantity": 71,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/29/thumbnail.jpg"
+  },
+  {
+    "title": "Product 30",
+    "description": "This is a sample description for Product 30. High quality and reliable.",
+    "price": 62.5,
+    "stock_quantity": 70,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/30/thumbnail.jpg"
+  },
+  {
+    "title": "Product 31",
+    "description": "This is a sample description for Product 31. High quality and reliable.",
+    "price": 64.25,
+    "stock_quantity": 69,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+  },
+  {
+    "title": "Product 32",
+    "description": "This is a sample description for Product 32. High quality and reliable.",
+    "price": 66.0,
+    "stock_quantity": 68,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/3/thumbnail.jpg"
+  },
+  {
+    "title": "Product 33",
+    "description": "This is a sample description for Product 33. High quality and reliable.",
+    "price": 67.75,
+    "stock_quantity": 67,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+  },
+  {
+    "title": "Product 34",
+    "description": "This is a sample description for Product 34. High quality and reliable.",
+    "price": 69.5,
+    "stock_quantity": 66,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/5/thumbnail.jpg"
+  },
+  {
+    "title": "Product 35",
+    "description": "This is a sample description for Product 35. High quality and reliable.",
+    "price": 71.25,
+    "stock_quantity": 65,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/6/thumbnail.jpg"
+  },
+  {
+    "title": "Product 36",
+    "description": "This is a sample description for Product 36. High quality and reliable.",
+    "price": 73.0,
+    "stock_quantity": 64,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+  },
+  {
+    "title": "Product 37",
+    "description": "This is a sample description for Product 37. High quality and reliable.",
+    "price": 74.75,
+    "stock_quantity": 63,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/8/thumbnail.jpg"
+  },
+  {
+    "title": "Product 38",
+    "description": "This is a sample description for Product 38. High quality and reliable.",
+    "price": 76.5,
+    "stock_quantity": 62,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+  },
+  {
+    "title": "Product 39",
+    "description": "This is a sample description for Product 39. High quality and reliable.",
+    "price": 78.25,
+    "stock_quantity": 61,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/10/thumbnail.jpg"
+  },
+  {
+    "title": "Product 40",
+    "description": "This is a sample description for Product 40. High quality and reliable.",
+    "price": 80.0,
+    "stock_quantity": 60,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/11/thumbnail.jpg"
+  },
+  {
+    "title": "Product 41",
+    "description": "This is a sample description for Product 41. High quality and reliable.",
+    "price": 81.75,
+    "stock_quantity": 59,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
+  },
+  {
+    "title": "Product 42",
+    "description": "This is a sample description for Product 42. High quality and reliable.",
+    "price": 83.5,
+    "stock_quantity": 58,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/13/thumbnail.jpg"
+  },
+  {
+    "title": "Product 43",
+    "description": "This is a sample description for Product 43. High quality and reliable.",
+    "price": 85.25,
+    "stock_quantity": 57,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/14/thumbnail.jpg"
+  },
+  {
+    "title": "Product 44",
+    "description": "This is a sample description for Product 44. High quality and reliable.",
+    "price": 87.0,
+    "stock_quantity": 56,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/15/thumbnail.jpg"
+  },
+  {
+    "title": "Product 45",
+    "description": "This is a sample description for Product 45. High quality and reliable.",
+    "price": 88.75,
+    "stock_quantity": 55,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
+  },
+  {
+    "title": "Product 46",
+    "description": "This is a sample description for Product 46. High quality and reliable.",
+    "price": 90.5,
+    "stock_quantity": 54,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/17/thumbnail.jpg"
+  },
+  {
+    "title": "Product 47",
+    "description": "This is a sample description for Product 47. High quality and reliable.",
+    "price": 92.25,
+    "stock_quantity": 53,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/18/thumbnail.jpg"
+  },
+  {
+    "title": "Product 48",
+    "description": "This is a sample description for Product 48. High quality and reliable.",
+    "price": 94.0,
+    "stock_quantity": 52,
+    "category": "electronics",
+    "image_url": "https://dummyjson.com/image/i/products/19/thumbnail.jpg"
+  },
+  {
+    "title": "Product 49",
+    "description": "This is a sample description for Product 49. High quality and reliable.",
+    "price": 95.75,
+    "stock_quantity": 51,
+    "category": "fashion",
+    "image_url": "https://dummyjson.com/image/i/products/20/thumbnail.jpg"
+  },
+  {
+    "title": "Product 50",
+    "description": "This is a sample description for Product 50. High quality and reliable.",
+    "price": 97.5,
+    "stock_quantity": 50,
+    "category": "home",
+    "image_url": "https://dummyjson.com/image/i/products/21/thumbnail.jpg"
+  }
+]
